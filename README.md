@@ -1,2 +1,1 @@
 # LumeOS-Website
-A website
